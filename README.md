@@ -19,4 +19,5 @@ Generate Bill: The program will display the total cost of the order based on you
 
 ##
 Thank you for trying out the Pizza Bill Generator! This project was a fun way to apply basic Java concepts in a practical scenario.
+
 Happy coding, and enjoy your pizza! 🍕
